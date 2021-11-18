@@ -1,0 +1,30 @@
+[H[2J[3J
+/home/ajinkya/PyPackage_from_Github/agent-based-emulsions
+
+/home/ajinkya/PyPackage_from_Github/py-droplets
+
+/home/ajinkya/PyPackage_from_Github/py-pde
+
+/home/ajinkya/PyPackage_from_Github/py-phasesep
+
+Tracker is Droplet_Tracker
+
+CLUSTER version is ON
+
+Critical radius is  3.333333333333333
+Radius CH - Simulations is: 400 and length for CH - Simulations is: 1200
+
+Grid discretization is [0.5 0.5]
+
+Interface width is 1.0
+
+CH_t_max is 10000
+
+CH_t_max is 10000 , Desired timepoints are 1000 and tracking interval is 10
+Timestep is 0.005
+
+
+Analytical interface width is: 0.9797793958704087 and Simulation interface width is: 1.0
+
+Analytical and simulation interface widths are the same within a tolerance of 0.1
+

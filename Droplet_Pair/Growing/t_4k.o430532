@@ -1,0 +1,30 @@
+C_INF is 0.05
+
+Critical radius is  3.333333333333333
+
+Radius CH - Simulations is: 819 and length for CH - Simulations is: 819
+
+Support_points are 1638
+
+Grid discretization is [0.5 0.5]
+
+Interface width is 1.0
+
+initial_radius_list_CH is [20. 20.]
+
+Initial_separation is 200
+
+Error in detected radius is 0.77 %
+
+CH_t_max is 4000
+
+CH_t_max is 4000 , Desired timepoints are 100 and tracking interval is 40
+Timestep is 0.005
+
+
+Analytical interface width is: 0.9767213438008366 and Simulation interface width is: 1.0
+
+Analytical and simulation interface widths are the same within a tolerance of 0.1
+
+N_DROPLETS is 2
+

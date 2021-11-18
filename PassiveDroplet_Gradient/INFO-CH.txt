@@ -1,0 +1,26 @@
+Version is CLUSTER 
+
+CH_limit_r is 0 to 400.000000 
+CH_limit_z is 0 to 1200.000000 
+
+AGM_SYSTEM_SIZE is 0 to 844.000000 
+
+C_bottom_CH is 0.000000 
+C_top_CH is 0.100000 
+
+mu_bottom_CH is 0.000000 
+mu_top_CH is 0.072000 
+
+C_bottom_y_AGM is 0.014833 
+C_top_y_AGM is 0.085167 
+
+KAPPA is 0.250000 
+PREFACTOR_FREE_ENERGY_DENSITY is 1.000000 
+MOBILITY is 1.000000 
+
+GAMMA is 0.083333 
+
+Interface Width is 1.000000 
+
+ALPHA is 0.050000 
+BETA is 0.000083 

@@ -1,0 +1,37 @@
+
+N_DROPLETS_INITIAL is 1 
+
+########################################
+
+KAPPA is 0.250000 
+
+PREFACTOR_FREE_ENERGY_DENSITY is 1.000000 
+
+MOBILITY is 1.000000 
+
+########################################
+
+GAMMA is 0.083333 
+
+Interface Width is 1.000000 
+
+R_critical_theory is 3.333333 
+
+########################################
+
+SYSTEM_SIZE for Agent Based Simulations is 844.000000 
+
+########################################
+
+grid discretization is [20.0952381 20.0952381 20.0952381] 
+
+Shell_thickness is 20.095238 
+
+Shell_sector_size is 20.095238 
+
+########################################
+
+Sample sim info is 
+{'background': {'class': 'DiffusionBackground', 'parameters': {'boundary_conditions': [[{'type': 'derivative', 'value': 0}, {'type': 'derivative', 'value': 0}], [{'type': 'value', 'value': 0.01483333333333333}, {'type': 'value', 'value': 0.08516666666666667}], [{'type': 'derivative', 'value': 0}, {'type': 'derivative', 'value': 0}]], 'diffusivity': 1.0}, 'pde': {'class': 'DiffusionPDE'}}, 'agents': {'class': 'SphericalDropletAgents', 'parameters': {'diffusivity': 1.0, 'drift_enabled': True, 'equilibrium_concentration': '0.16666666666666666/radius', 'num_threads': '1', 'reaction_inside': '0', 'reaction_outside': '0', 'shell_sector_count': 6, 'shell_sector_method': 'size', 'shell_sector_size': '20.095238095238095', 'shell_thickness': '20.095238095238095'}}} 
+
+########################################

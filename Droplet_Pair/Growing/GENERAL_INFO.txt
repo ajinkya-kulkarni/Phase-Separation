@@ -1,0 +1,16 @@
+CH_limit_r is 0 to 819.000000 
+CH_limit_z is 0 to 819.000000 
+
+AGM_box_length is 0 to 1200.000000 
+
+KAPPA is 0.250000 
+PREFACTOR_FREE_ENERGY_DENSITY is 1.000000 
+MOBILITY is 1.000000 
+
+GAMMA is 0.083333 
+
+Interface Width is 1.000000 
+
+Initial Radius is 20.000000 
+
+Initial Seperation is 200.000000 
